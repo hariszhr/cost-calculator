@@ -1,0 +1,23 @@
+{
+  "name": "cost-calculator",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariszhr/cost-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariszhr/cost-calculator/issues"
+  },
+  "homepage": "https://github.com/hariszhr/cost-calculator#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
